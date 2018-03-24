@@ -1,0 +1,328 @@
+Name: Knight, Id: 26000000, Elixir: 3, Air Card: False, Ground Card: True, 
+        Attacks Air: False, Attacks Ground: True, Targets Buildings: False, 
+        Is Troop: True, Is Spell: False, Is Building: False, Splash Damage: False,
+        Point Damage: True
+Name: Archer, Id: 26000001, Elixir: 3, Air Card: False, Ground Card: True, 
+        Attacks Air: True, Attacks Ground: True, Targets Buildings: False, 
+        Is Troop: True, Is Spell: False, Is Building: False, Splash Damage: False,
+        Point Damage: True
+Name: Goblin, Id: 26000002, Elixir: 2, Air Card: False, Ground Card: True, 
+        Attacks Air: False, Attacks Ground: True, Targets Buildings: False, 
+        Is Troop: True, Is Spell: False, Is Building: False, Splash Damage: False,
+        Point Damage: True
+Name: Giant, Id: 26000003, Elixir: 5, Air Card: False, Ground Card: True, 
+        Attacks Air: False, Attacks Ground: True, Targets Buildings: True, 
+        Is Troop: True, Is Spell: False, Is Building: False, Splash Damage: False,
+        Point Damage: True
+Name: Pekka, Id: 26000004, Elixir: 7, Air Card: False, Ground Card: True, 
+        Attacks Air: False, Attacks Ground: True, Targets Buildings: False, 
+        Is Troop: True, Is Spell: False, Is Building: False, Splash Damage: False,
+        Point Damage: True
+Name: Minions, Id: 26000005, Elixir: 3, Air Card: True, Ground Card: False, 
+        Attacks Air: True, Attacks Ground: True, Targets Buildings: False, 
+        Is Troop: True, Is Spell: False, Is Building: False, Splash Damage: False,
+        Point Damage: True
+Name: Balloon, Id: 26000006, Elixir: 5, Air Card: True, Ground Card: False, 
+        Attacks Air: False, Attacks Ground: True, Targets Buildings: True, 
+        Is Troop: True, Is Spell: False, Is Building: False, Splash Damage: False,
+        Point Damage: True
+Name: Witch, Id: 26000007, Elixir: 5, Air Card: False, Ground Card: True, 
+        Attacks Air: True, Attacks Ground: True, Targets Buildings: False, 
+        Is Troop: True, Is Spell: False, Is Building: False, Splash Damage: True,
+        Point Damage: True
+Name: Barbarians, Id: 26000008, Elixir: 5, Air Card: False, Ground Card: True, 
+        Attacks Air: False, Attacks Ground: True, Targets Buildings: False, 
+        Is Troop: True, Is Spell: False, Is Building: False, Splash Damage: False,
+        Point Damage: True
+Name: Golem, Id: 26000009, Elixir: 8, Air Card: False, Ground Card: True, 
+        Attacks Air: True, Attacks Ground: True, Targets Buildings: True, 
+        Is Troop: True, Is Spell: False, Is Building: False, Splash Damage: True,
+        Point Damage: True
+Name: Skeletons, Id: 26000010, Elixir: 1, Air Card: False, Ground Card: True, 
+        Attacks Air: False, Attacks Ground: True, Targets Buildings: False, 
+        Is Troop: True, Is Spell: False, Is Building: False, Splash Damage: False,
+        Point Damage: True
+Name: Valkyrie, Id: 26000011, Elixir: 4, Air Card: False, Ground Card: True, 
+        Attacks Air: False, Attacks Ground: True, Targets Buildings: False, 
+        Is Troop: True, Is Spell: False, Is Building: False, Splash Damage: True,
+        Point Damage: False
+Name: Bomber, Id: 26000013, Elixir: 3, Air Card: False, Ground Card: True, 
+        Attacks Air: False, Attacks Ground: True, Targets Buildings: False, 
+        Is Troop: True, Is Spell: False, Is Building: False, Splash Damage: True,
+        Point Damage: False
+Name: Musketeer, Id: 26000014, Elixir: 4, Air Card: False, Ground Card: True, 
+        Attacks Air: True, Attacks Ground: True, Targets Buildings: False, 
+        Is Troop: True, Is Spell: False, Is Building: False, Splash Damage: False,
+        Point Damage: True
+Name: Baby Dragon, Id: 26000015, Elixir: 4, Air Card: True, Ground Card: False, 
+        Attacks Air: True, Attacks Ground: True, Targets Buildings: False, 
+        Is Troop: True, Is Spell: False, Is Building: False, Splash Damage: True,
+        Point Damage: False
+Name: Mini Pekka, Id: 26000018, Elixir: 4, Air Card: False, Ground Card: True, 
+        Attacks Air: False, Attacks Ground: True, Targets Buildings: False, 
+        Is Troop: True, Is Spell: False, Is Building: False, Splash Damage: False,
+        Point Damage: True
+Name: Wizard, Id: 26000017, Elixir: 5, Air Card: False, Ground Card: True, 
+        Attacks Air: True, Attacks Ground: True, Targets Buildings: False, 
+        Is Troop: True, Is Spell: False, Is Building: False, Splash Damage: True,
+        Point Damage: False
+Name: Prince, Id: 26000016, Elixir: 5, Air Card: False, Ground Card: True, 
+        Attacks Air: False, Attacks Ground: True, Targets Buildings: False, 
+        Is Troop: True, Is Spell: False, Is Building: False, Splash Damage: False,
+        Point Damage: True
+Name: Spear Goblins, Id: 26000019, Elixir: 2, Air Card: False, Ground Card: True, 
+        Attacks Air: True, Attacks Ground: True, Targets Buildings: False, 
+        Is Troop: True, Is Spell: False, Is Building: False, Splash Damage: False,
+        Point Damage: True
+Name: Giant Skeleton, Id: 26000020, Elixir: 6, Air Card: False, Ground Card: True, 
+        Attacks Air: False, Attacks Ground: True, Targets Buildings: False, 
+        Is Troop: True, Is Spell: False, Is Building: False, Splash Damage: True,
+        Point Damage: True
+Name: Hog Rider, Id: 26000021, Elixir: 4, Air Card: False, Ground Card: True, 
+        Attacks Air: False, Attacks Ground: True, Targets Buildings: True, 
+        Is Troop: True, Is Spell: False, Is Building: False, Splash Damage: False,
+        Point Damage: True
+Name: Ice Wizard, Id: 26000023, Elixir: 3, Air Card: False, Ground Card: True, 
+        Attacks Air: True, Attacks Ground: True, Targets Buildings: False, 
+        Is Troop: True, Is Spell: False, Is Building: False, Splash Damage: True,
+        Point Damage: False
+Name: Royal Giant, Id: 26000024, Elixir: 6, Air Card: False, Ground Card: True, 
+        Attacks Air: False, Attacks Ground: True, Targets Buildings: True, 
+        Is Troop: True, Is Spell: False, Is Building: False, Splash Damage: False,
+        Point Damage: True
+Name: Princess, Id: 26000026, Elixir: 3, Air Card: False, Ground Card: True, 
+        Attacks Air: True, Attacks Ground: True, Targets Buildings: False, 
+        Is Troop: True, Is Spell: False, Is Building: False, Splash Damage: True,
+        Point Damage: False
+Name: Dark Prince, Id: 26000027, Elixir: 4, Air Card: False, Ground Card: True, 
+        Attacks Air: False, Attacks Ground: True, Targets Buildings: False, 
+        Is Troop: True, Is Spell: False, Is Building: False, Splash Damage: True,
+        Point Damage: False
+Name: Guards, Id: 26000025, Elixir: 3, Air Card: False, Ground Card: True, 
+        Attacks Air: False, Attacks Ground: True, Targets Buildings: False, 
+        Is Troop: True, Is Spell: False, Is Building: False, Splash Damage: False,
+        Point Damage: True
+Name: Lava Hound, Id: 26000029, Elixir: 7, Air Card: True, Ground Card: False, 
+        Attacks Air: True, Attacks Ground: True, Targets Buildings: True, 
+        Is Troop: True, Is Spell: False, Is Building: False, Splash Damage: False,
+        Point Damage: True
+Name: Lumberjack, Id: 26000035, Elixir: 4, Air Card: False, Ground Card: True, 
+        Attacks Air: False, Attacks Ground: True, Targets Buildings: False, 
+        Is Troop: True, Is Spell: False, Is Building: False, Splash Damage: False,
+        Point Damage: True
+Name: Ice Spirit, Id: 26000030, Elixir: 1, Air Card: False, Ground Card: True, 
+        Attacks Air: True, Attacks Ground: True, Targets Buildings: False, 
+        Is Troop: True, Is Spell: False, Is Building: False, Splash Damage: True,
+        Point Damage: False
+Name: Fire Spirits, Id: 26000031, Elixir: 2, Air Card: False, Ground Card: True, 
+        Attacks Air: True, Attacks Ground: True, Targets Buildings: False, 
+        Is Troop: True, Is Spell: False, Is Building: False, Splash Damage: True,
+        Point Damage: False
+Name: Miner, Id: 26000032, Elixir: 3, Air Card: False, Ground Card: True, 
+        Attacks Air: False, Attacks Ground: True, Targets Buildings: False, 
+        Is Troop: True, Is Spell: False, Is Building: False, Splash Damage: False,
+        Point Damage: True
+Name: Sparky, Id: 26000033, Elixir: 6, Air Card: False, Ground Card: True, 
+        Attacks Air: False, Attacks Ground: True, Targets Buildings: False, 
+        Is Troop: True, Is Spell: False, Is Building: False, Splash Damage: True,
+        Point Damage: False
+Name: Bowler, Id: 26000034, Elixir: 5, Air Card: False, Ground Card: True, 
+        Attacks Air: False, Attacks Ground: True, Targets Buildings: False, 
+        Is Troop: True, Is Spell: False, Is Building: False, Splash Damage: True,
+        Point Damage: False
+Name: Mega Minion, Id: 26000039, Elixir: 3, Air Card: True, Ground Card: False, 
+        Attacks Air: True, Attacks Ground: True, Targets Buildings: False, 
+        Is Troop: True, Is Spell: False, Is Building: False, Splash Damage: False,
+        Point Damage: True
+Name: Inferno Dragon, Id: 26000037, Elixir: 4, Air Card: True, Ground Card: False, 
+        Attacks Air: True, Attacks Ground: True, Targets Buildings: False, 
+        Is Troop: True, Is Spell: False, Is Building: False, Splash Damage: False,
+        Point Damage: True
+Name: Battle Ram, Id: 26000036, Elixir: 4, Air Card: False, Ground Card: True, 
+        Attacks Air: False, Attacks Ground: True, Targets Buildings: True, 
+        Is Troop: True, Is Spell: False, Is Building: False, Splash Damage: False,
+        Point Damage: True
+Name: Dart Goblin, Id: 26000040, Elixir: 3, Air Card: False, Ground Card: True, 
+        Attacks Air: True, Attacks Ground: True, Targets Buildings: False, 
+        Is Troop: True, Is Spell: False, Is Building: False, Splash Damage: False,
+        Point Damage: True
+Name: Electro Wizard, Id: 26000042, Elixir: 4, Air Card: False, Ground Card: True, 
+        Attacks Air: True, Attacks Ground: True, Targets Buildings: False, 
+        Is Troop: True, Is Spell: False, Is Building: False, Splash Damage: True,
+        Point Damage: True
+Name: Elite Barbarians, Id: 26000043, Elixir: 6, Air Card: False, Ground Card: True, 
+        Attacks Air: False, Attacks Ground: True, Targets Buildings: False, 
+        Is Troop: True, Is Spell: False, Is Building: False, Splash Damage: False,
+        Point Damage: True
+Name: Executioner, Id: 26000045, Elixir: 5, Air Card: False, Ground Card: True, 
+        Attacks Air: True, Attacks Ground: True, Targets Buildings: False, 
+        Is Troop: True, Is Spell: False, Is Building: False, Splash Damage: True,
+        Point Damage: False
+Name: Bandit, Id: 26000046, Elixir: 3, Air Card: False, Ground Card: True, 
+        Attacks Air: False, Attacks Ground: True, Targets Buildings: False, 
+        Is Troop: True, Is Spell: False, Is Building: False, Splash Damage: False,
+        Point Damage: True
+Name: Royal Ghost, Id: 26000050, Elixir: 3, Air Card: False, Ground Card: True, 
+        Attacks Air: False, Attacks Ground: True, Targets Buildings: False, 
+        Is Troop: True, Is Spell: False, Is Building: False, Splash Damage: True,
+        Point Damage: False
+Name: Zappies, Id: 26000052, Elixir: 4, Air Card: False, Ground Card: True, 
+        Attacks Air: True, Attacks Ground: True, Targets Buildings: False, 
+        Is Troop: True, Is Spell: False, Is Building: False, Splash Damage: False,
+        Point Damage: True
+Name: Hunter, Id: 26000044, Elixir: 4, Air Card: False, Ground Card: True, 
+        Attacks Air: True, Attacks Ground: True, Targets Buildings: False, 
+        Is Troop: True, Is Spell: False, Is Building: False, Splash Damage: True,
+        Point Damage: False
+Name: Night Witch, Id: 26000048, Elixir: 4, Air Card: False, Ground Card: True, 
+        Attacks Air: False, Attacks Ground: True, Targets Buildings: False, 
+        Is Troop: True, Is Spell: False, Is Building: False, Splash Damage: False,
+        Point Damage: True
+Name: Bats, Id: 26000049, Elixir: 2, Air Card: True, Ground Card: False, 
+        Attacks Air: True, Attacks Ground: True, Targets Buildings: False, 
+        Is Troop: True, Is Spell: False, Is Building: False, Splash Damage: False,
+        Point Damage: True
+Name: Cannon Cart, Id: 26000054, Elixir: 5, Air Card: False, Ground Card: True, 
+        Attacks Air: False, Attacks Ground: True, Targets Buildings: False, 
+        Is Troop: True, Is Spell: False, Is Building: False, Splash Damage: False,
+        Point Damage: True
+Name: Mega Knight, Id: 26000055, Elixir: 7, Air Card: False, Ground Card: True, 
+        Attacks Air: False, Attacks Ground: True, Targets Buildings: False, 
+        Is Troop: True, Is Spell: False, Is Building: False, Splash Damage: True,
+        Point Damage: False
+Name: Skeleton Barrel, Id: 26000056, Elixir: 3, Air Card: True, Ground Card: False, 
+        Attacks Air: False, Attacks Ground: True, Targets Buildings: True, 
+        Is Troop: True, Is Spell: False, Is Building: False, Splash Damage: False,
+        Point Damage: True
+Name: Rage, Id: 28000002, Elixir: 2, Air Card: False, Ground Card: False, 
+        Attacks Air: False, Attacks Ground: False, Targets Buildings: False, 
+        Is Troop: False, Is Spell: True, Is Building: False, Splash Damage: False,
+        Point Damage: False
+Name: Freeze, Id: 28000005, Elixir: 4, Air Card: False, Ground Card: False, 
+        Attacks Air: False, Attacks Ground: False, Targets Buildings: False, 
+        Is Troop: False, Is Spell: True, Is Building: False, Splash Damage: False,
+        Point Damage: False
+Name: Lightning, Id: 28000007, Elixir: 6, Air Card: False, Ground Card: False, 
+        Attacks Air: True, Attacks Ground: True, Targets Buildings: False, 
+        Is Troop: False, Is Spell: True, Is Building: False, Splash Damage: False,
+        Point Damage: True
+Name: Zap, Id: 28000008, Elixir: 2, Air Card: False, Ground Card: False, 
+        Attacks Air: True, Attacks Ground: True, Targets Buildings: False, 
+        Is Troop: False, Is Spell: True, Is Building: False, Splash Damage: True,
+        Point Damage: False
+Name: Poison, Id: 28000009, Elixir: 4, Air Card: False, Ground Card: False, 
+        Attacks Air: True, Attacks Ground: True, Targets Buildings: False, 
+        Is Troop: False, Is Spell: True, Is Building: False, Splash Damage: True,
+        Point Damage: False
+Name: Graveyard, Id: 28000010, Elixir: 5, Air Card: False, Ground Card: False, 
+        Attacks Air: False, Attacks Ground: True, Targets Buildings: False, 
+        Is Troop: False, Is Spell: True, Is Building: False, Splash Damage: False,
+        Point Damage: True
+Name: Tornado, Id: 28000012, Elixir: 3, Air Card: False, Ground Card: False, 
+        Attacks Air: True, Attacks Ground: True, Targets Buildings: False, 
+        Is Troop: False, Is Spell: True, Is Building: False, Splash Damage: True,
+        Point Damage: False
+Name: Clone, Id: 28000013, Elixir: 3, Air Card: False, Ground Card: False, 
+        Attacks Air: False, Attacks Ground: False, Targets Buildings: False, 
+        Is Troop: False, Is Spell: True, Is Building: False, Splash Damage: False,
+        Point Damage: False
+Name: Heal, Id: 28000016, Elixir: 3, Air Card: False, Ground Card: False, 
+        Attacks Air: False, Attacks Ground: False, Targets Buildings: False, 
+        Is Troop: False, Is Spell: True, Is Building: False, Splash Damage: False,
+        Point Damage: False
+Name: Log, Id: 28000011, Elixir: 3, Air Card: False, Ground Card: False, 
+        Attacks Air: False, Attacks Ground: False, Targets Buildings: False, 
+        Is Troop: False, Is Spell: True, Is Building: False, Splash Damage: True,
+        Point Damage: False
+Name: Mirror, Id: 28000006, Elixir: 3, Air Card: False, Ground Card: False, 
+        Attacks Air: True, Attacks Ground: True, Targets Buildings: False, 
+        Is Troop: False, Is Spell: True, Is Building: False, Splash Damage: True,
+        Point Damage: True
+Name: Rocket, Id: 28000003, Elixir: 6, Air Card: False, Ground Card: False, 
+        Attacks Air: True, Attacks Ground: True, Targets Buildings: False, 
+        Is Troop: False, Is Spell: True, Is Building: False, Splash Damage: True,
+        Point Damage: False
+Name: Fireball, Id: 28000000, Elixir: 4, Air Card: False, Ground Card: False, 
+        Attacks Air: True, Attacks Ground: True, Targets Buildings: False, 
+        Is Troop: False, Is Spell: True, Is Building: False, Splash Damage: True,
+        Point Damage: False
+Name: Arrows, Id: 28000001, Elixir: 3, Air Card: False, Ground Card: False, 
+        Attacks Air: True, Attacks Ground: True, Targets Buildings: False, 
+        Is Troop: False, Is Spell: True, Is Building: False, Splash Damage: True,
+        Point Damage: False
+Name: Cannon, Id: 27000000, Elixir: 3, Air Card: False, Ground Card: True, 
+        Attacks Air: False, Attacks Ground: True, Targets Buildings: False, 
+        Is Troop: False, Is Spell: False, Is Building: True, Splash Damage: False,
+        Point Damage: True
+Name: Goblin Hut, Id: 27000001, Elixir: 5, Air Card: False, Ground Card: True, 
+        Attacks Air: True, Attacks Ground: True, Targets Buildings: False, 
+        Is Troop: False, Is Spell: False, Is Building: True, Splash Damage: False,
+        Point Damage: True
+Name: Mortar, Id: 27000002, Elixir: 4, Air Card: False, Ground Card: True, 
+        Attacks Air: False, Attacks Ground: True, Targets Buildings: False, 
+        Is Troop: False, Is Spell: False, Is Building: True, Splash Damage: True,
+        Point Damage: False
+Name: Inferno Tower, Id: 27000003, Elixir: 5, Air Card: False, Ground Card: True, 
+        Attacks Air: True, Attacks Ground: True, Targets Buildings: False, 
+        Is Troop: False, Is Spell: False, Is Building: True, Splash Damage: False,
+        Point Damage: True
+Name: Bomb Tower, Id: 27000004, Elixir: 5, Air Card: False, Ground Card: True, 
+        Attacks Air: False, Attacks Ground: True, Targets Buildings: False, 
+        Is Troop: False, Is Spell: False, Is Building: True, Splash Damage: True,
+        Point Damage: False
+Name: Barbarian Hut, Id: 27000005, Elixir: 7, Air Card: False, Ground Card: True, 
+        Attacks Air: False, Attacks Ground: True, Targets Buildings: False, 
+        Is Troop: False, Is Spell: False, Is Building: True, Splash Damage: False,
+        Point Damage: True
+Name: Tesla, Id: 27000006, Elixir: 4, Air Card: False, Ground Card: True, 
+        Attacks Air: True, Attacks Ground: True, Targets Buildings: False, 
+        Is Troop: False, Is Spell: False, Is Building: True, Splash Damage: False,
+        Point Damage: True
+Name: Elixir Collector, Id: 27000007, Elixir: 6, Air Card: False, Ground Card: True, 
+        Attacks Air: False, Attacks Ground: False, Targets Buildings: False, 
+        Is Troop: False, Is Spell: False, Is Building: True, Splash Damage: False,
+        Point Damage: False
+Name: X-Bow, Id: 27000008, Elixir: 6, Air Card: False, Ground Card: True, 
+        Attacks Air: False, Attacks Ground: True, Targets Buildings: False, 
+        Is Troop: False, Is Spell: False, Is Building: True, Splash Damage: False,
+        Point Damage: True
+Name: Tombstone, Id: 27000009, Elixir: 3, Air Card: False, Ground Card: True, 
+        Attacks Air: False, Attacks Ground: True, Targets Buildings: False, 
+        Is Troop: False, Is Spell: False, Is Building: True, Splash Damage: False,
+        Point Damage: True
+Name: Furnace, Id: 27000010, Elixir: 4, Air Card: False, Ground Card: True, 
+        Attacks Air: True, Attacks Ground: True, Targets Buildings: False, 
+        Is Troop: False, Is Spell: False, Is Building: True, Splash Damage: True,
+        Point Damage: False
+Name: Skeleton Army, Id: 26000012, Elixir: 3, Air Card: False, Ground Card: True, 
+        Attacks Air: False, Attacks Ground: True, Targets Buildings: False, 
+        Is Troop: True, Is Spell: False, Is Building: False, Splash Damage: False,
+        Point Damage: True
+Name: Minion_Horde, Id: 26000022, Elixir: 5, Air Card: True, Ground Card: False, 
+        Attacks Air: True, Attacks Ground: True, Targets Buildings: False, 
+        Is Troop: True, Is Spell: False, Is Building: False, Splash Damage: False,
+        Point Damage: True
+Name: Three Musketeers, Id: 26000028, Elixir: 9, Air Card: False, Ground Card: True, 
+        Attacks Air: True, Attacks Ground: True, Targets Buildings: False, 
+        Is Troop: True, Is Spell: False, Is Building: False, Splash Damage: False,
+        Point Damage: True
+Name: Ice Golem, Id: 26000038, Elixir: 2, Air Card: False, Ground Card: True, 
+        Attacks Air: True, Attacks Ground: True, Targets Buildings: True, 
+        Is Troop: True, Is Spell: False, Is Building: False, Splash Damage: True,
+        Point Damage: True
+Name: Goblin Gang, Id: 26000041, Elixir: 3, Air Card: False, Ground Card: True, 
+        Attacks Air: True, Attacks Ground: True, Targets Buildings: False, 
+        Is Troop: True, Is Spell: False, Is Building: False, Splash Damage: False,
+        Point Damage: True
+Name: Flying Machine, Id: 26000057, Elixir: 4, Air Card: True, Ground Card: False, 
+        Attacks Air: True, Attacks Ground: True, Targets Buildings: False, 
+        Is Troop: True, Is Spell: False, Is Building: False, Splash Damage: False,
+        Point Damage: True
+Name: Magic_Archer, Id: 26000062, Elixir: 4, Air Card: False, Ground Card: True, 
+        Attacks Air: True, Attacks Ground: True, Targets Buildings: False, 
+        Is Troop: True, Is Spell: False, Is Building: False, Splash Damage: True,
+        Point Damage: False
+Name: Goblin_barrel, Id: 28000004, Elixir: 3, Air Card: False, Ground Card: True, 
+        Attacks Air: False, Attacks Ground: True, Targets Buildings: False, 
+        Is Troop: True, Is Spell: False, Is Building: False, Splash Damage: False,
+        Point Damage: True
